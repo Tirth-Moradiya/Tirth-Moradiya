@@ -39,7 +39,6 @@ I have successfully built and contributed to multiple projects, including:
 ---
 
 
----
 
 ## 📌 **Projects**
 ### 1️⃣ **Restro-X**
