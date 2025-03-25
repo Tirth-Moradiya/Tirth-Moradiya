@@ -38,8 +38,6 @@ I have successfully built and contributed to multiple projects, including:
 
 ---
 
-## 📊 **GitHub Stats**
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirth-Moradiya&show_icons=true&theme=radical)  
 
 ---
 
